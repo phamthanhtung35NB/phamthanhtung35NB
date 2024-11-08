@@ -9,13 +9,12 @@
 </h1>
 
 <p align="center">
-        <img src="https://raw.githubusercontent.com/phamthanhtung35NB/phamthanhtung35NB/refs/heads/main/images/200.webp" alt="Github Stats" />
+        <img src="https://raw.githubusercontent.com/phamthanhtung35NB/phamthanhtung35NB/refs/heads/main/images/8674905b3c57ca65503d14f79fcc3b87.gif" alt="Github Stats" />
 </p>
 
 <h1 align="center">
-<!-- 2600 FL facebooke -->
 
-[![](https://komarev.com/ghpvc/?username=phamthanhtung35nb&color=green&style=flat-square&label=PROFILE+VIEWS&base=2600)](https://github.com/phamthanhtung35NB)
+[![](https://komarev.com/ghpvc/?username=phamthanhtung35nb&color=green&style=flat-square&label=PROFILE+VIEWS)](https://github.com/phamthanhtung35NB)
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/phamthanhtung35nb">
 </h1>
 <h1 align="center">
@@ -62,6 +61,6 @@ GitHub Stats ️
 
 <br />
 <p align="center">
-        <img src="https://raw.githubusercontent.com/phamthanhtung35NB/phamthanhtung35NB/refs/heads/main/images/200.webp" alt="Github Stats" />
+        <img src="https://raw.githubusercontent.com/phamthanhtung35NB/phamthanhtung35NB/refs/heads/main/images/fb28fc6d57ddac34822fd0b00c78ca2a.gif" alt="Github Stats" />
 </p>
 
