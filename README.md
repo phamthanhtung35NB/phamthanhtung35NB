@@ -4,11 +4,13 @@
 </h1>
 <br/>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=500&lines=%F0%9F%91%8B+Hello;My+name+is+Pham+Thanh+Tung;I+am+20+years+old;I'm+studying+at+UET+-+VNU">
-</p>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&lines=%F0%9F%91%8B+Hello;My+name+is+Pham+Thanh+Tung;I+am+20+years+old;I'm+studying+at+UET+-+VNU">
+</h1>
 
----
+<p align="center">
+        <img src="https://raw.githubusercontent.com/phamthanhtung35NB/phamthanhtung35NB/refs/heads/main/images/200.webp" alt="Github Stats" />
+</p>
 
 <h1 align="center">
 <!-- 2600 FL facebooke -->
@@ -27,31 +29,20 @@
 <a href="https://www.hackerrank.com/profile/tungpham010203" target="blank"><img align="center" src="https://img.shields.io/badge/-Pham%20Thanh%20Tung-006400?logo=hackerrank&logoColor=white" /></a>
 
 </h2>
+<h1 align="center-left">
+GitHub Streak 🔥🔥
+</h1>
+<h2 align="center">
 
+[![](https://github-readme-streak-stats.herokuapp.com/?user=phamthanhtung35nb&theme=chartreuse-dark)](https://github.com/phamthanhtung35nb?tab=repositories)
+</h2>
 <h1 align="center-left">
 GitHub Stats ️
 </h1>
-
 <h2 align="center">
-  <table>
-    <tr>
-      <td>
-        <a href="https://github.com/phamthanhtung35nb?tab=repositories">
-          <img src="https://github-readme-stats.vercel.app/api?username=phamthanhtung35nb&show_icons=true&include_all_commits=true&count_private=true&theme=chartreuse-dark" alt="phamthanhtung35nb's github stats" />
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/phamthanhtung35nb?tab=repositories">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=phamthanhtung35nb&langs_count=10&layout=compact&theme=chartreuse-dark" />
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/phamthanhtung35nb?tab=repositories">
-          <img src="https://github-readme-streak-stats.herokuapp.com/?user=phamthanhtung35nb&theme=chartreuse-dark" alt="GitHub Streak Stats" />
-        </a>
-      </td>
-    </tr>
-  </table>
+<a href="https://github.com/phamthanhtung35nb?tab=repositories"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phamthanhtung35nb&langs_count=10&layout=compact&theme=chartreuse-dark" /></a>
+</p>
+<a href="https://github.com/phamthanhtung35nb?tab=repositories"><img align="center" src="https://github-readme-stats.vercel.app/api?username=phamthanhtung35nb&show_icons=true&include_all_commits=true&count_private=true&theme=chartreuse-dark" alt="phamthanhtung35nb's github stats" /></a>
 </h2>
 
 ## Top Repositories 🌟
@@ -66,7 +57,11 @@ GitHub Stats ️
 </a>
 
 <br />
+
+---
+
+<br />
 <p align="center">
-        <img src="" alt="Github Stats" />
+        <img src="https://raw.githubusercontent.com/phamthanhtung35NB/phamthanhtung35NB/refs/heads/main/images/200.webp" alt="Github Stats" />
 </p>
 
