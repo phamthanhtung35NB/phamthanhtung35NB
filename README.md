@@ -38,24 +38,11 @@ GitHub Streak 🔥🔥
 <h1 align="center-left">
 GitHub Stats ️
 </h1>
-<h2 align="center">
+<h3 align="center">
 <a href="https://github.com/phamthanhtung35nb?tab=repositories"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phamthanhtung35nb&langs_count=10&layout=compact&theme=chartreuse-dark" /></a>
 </p>
 <a href="https://github.com/phamthanhtung35nb?tab=repositories"><img align="center" src="https://github-readme-stats.vercel.app/api?username=phamthanhtung35nb&show_icons=true&include_all_commits=true&count_private=true&theme=chartreuse-dark" alt="phamthanhtung35nb's github stats" /></a>
-</h2>
-
-## Top Repositories 🌟
-<a href="https://github.com/phamthanhtung35nb/TrafficWarning">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=phamthanhtung35nb&repo=TrafficWarning&show_owner=true&theme=chartreuse-dark" />
-</a>
-<a href="https://github.com/phamthanhtung35nb/English-learning-application">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=phamthanhtung35nb&repo=English-learning-application&show_owner=true&theme=chartreuse-dark" />
-</a>
-<a href="https://github.com/phamthanhtung35nb/Warning-system-of-traffic-lights-and-blind-spots-at-intersections">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=phamthanhtung35nb&repo=Warning-system-of-traffic-lights-and-blind-spots-at-intersections&show_owner=true&theme=chartreuse-dark" />
-</a>
-
-<br />
+</h3>
 
 ---
 
