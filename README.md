@@ -53,7 +53,4 @@ GitHub Stats ️
 ---
 
 <br />
-<p align="center">
-        <img src="https://raw.githubusercontent.com/phamthanhtung35NB/phamthanhtung35NB/refs/heads/main/images/fb28fc6d57ddac34822fd0b00c78ca2a.gif" alt="Github Stats" />
-</p>
 
