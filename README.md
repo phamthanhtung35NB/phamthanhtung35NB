@@ -3,7 +3,7 @@
   <img src="https://raw.githubusercontent.com/phamthanhtung35NB/phamthanhtung35NB/refs/heads/main/images/hello.webp" width="32">
 </h1>
 <h1 align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&duration=1500&pause=500&center=true&vCenter=true&multiline=true&width=435&height=120&lines=%F0%9F%91%8B+Hello+%F0%9F%91%8B;My+name+is+Ph%E1%BA%A1m+Thanh+T%C3%B9ng;I+am+20+years+old;I'm+studying+at+UET+-+VNU" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&duration=1500&pause=500&center=true&vCenter=true&multiline=true&width=435&height=120&lines=%F0%9F%91%8B+Hello+%F0%9F%91%8B;My+name+is+Ph%E1%BA%A1m+Thanh+T%C3%B9ng;I+am+21+years+old;I'm+studying+at+UET+-+VNU" alt="Typing SVG" /></a>
 </h1>
 
 <p align="center">
