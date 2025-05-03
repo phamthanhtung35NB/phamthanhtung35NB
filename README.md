@@ -21,7 +21,7 @@
 <h3 align="center">
 👀 Connect With Me 👀
 
----
+
 
 <br />
 
@@ -31,6 +31,7 @@
 <a href="https://discord.com/#7595" target="blank"><img align="center" src="https://img.shields.io/badge/-phamthanhtung35nb-436EEE?logo=discord&logoColor=white" /></a>
 <a href="https://www.hackerrank.com/profile/phamthanhtung35n" target="blank"><img align="center" src="https://img.shields.io/badge/-Pham%20Thanh%20Tung-006400?logo=hackerrank&logoColor=white" /></a>
 </h3>
+<br />
 
 ------ ------
 
