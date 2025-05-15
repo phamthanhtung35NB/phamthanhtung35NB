@@ -39,22 +39,37 @@
 GitHub Streak 🔥🔥
 </h1>
 <h3 align="center">
-
-[![](https://github-readme-streak-stats.herokuapp.com/?user=phamthanhtung35nb&theme=chartreuse-dark)](https://github.com/phamthanhtung35nb?tab=repositories)
+  <a href="https://github.com/phamthanhtung35nb?tab=repositories">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=phamthanhtung35nb&theme=chartreuse-dark" />
+  </a>
 </h3>
 
 ---
 
 <h1 align="left">
-GitHub Stats ️
+GitHub Stats ⚡
 </h1>
 <h2 align="center">
-<a href="https://github.com/phamthanhtung35nb?tab=repositories"><img align="center" src="https://github-readme-stats.vercel.app/api?username=phamthanhtung35nb&show_icons=true&include_all_commits=true&count_private=true&theme=chartreuse-dark" alt="phamthanhtung35nb's github stats" /></a>
-  <p></p>
+  <a href="https://github.com/phamthanhtung35nb?tab=repositories">
+    <img src="https://github-readme-stats.vercel.app/api?username=phamthanhtung35nb&show_icons=true&include_all_commits=true&count_private=true&theme=chartreuse-dark" alt="phamthanhtung35nb's github stats" />
+  </a>
 </h2>
+
 <h3 align="center">
-<a href="https://github.com/phamthanhtung35nb?tab=repositories"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phamthanhtung35nb&langs_count=10&layout=compact&theme=chartreuse-dark" /></a>
+  <a href="https://github.com/phamthanhtung35nb?tab=repositories">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=phamthanhtung35nb&langs_count=10&layout=compact&theme=chartreuse-dark" />
+  </a>
 </h3>
+
+---
+
+<h1 align="left">
+🏆 GitHub Trophies
+</h1>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=phamthanhtung35nb&theme=chartreuse-dark&row=1&column=6" />
+</p>
+
 
 ---
 
