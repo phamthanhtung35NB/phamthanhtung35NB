@@ -6,10 +6,6 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&duration=1500&pause=500&center=true&vCenter=true&multiline=true&width=435&height=120&lines=%F0%9F%91%8B+Hello+%F0%9F%91%8B;My+name+is+Ph%E1%BA%A1m+Thanh+T%C3%B9ng;I+am+21+years+old;I'm+studying+at+UET+-+VNU" alt="Typing SVG" /></a>
 </h1>
 
-<p align="center">
-        <img src="https://raw.githubusercontent.com/phamthanhtung35NB/phamthanhtung35NB/refs/heads/main/images/8674905b3c57ca65503d14f79fcc3b87.gif" alt="Github Stats" />
-</p>
-
 <h3 align="center">
 
 [![](https://komarev.com/ghpvc/?username=phamthanhtung35nb&color=green&style=flat-square&label=PROFILE+VIEWS)](https://github.com/phamthanhtung35NB)
@@ -70,8 +66,6 @@ GitHub Stats ⚡
   <img src="https://github-profile-trophy.vercel.app/?username=phamthanhtung35nb&theme=chartreuse-dark&row=1&column=6" />
 </p>
 
-
----
 
 <br />
 
