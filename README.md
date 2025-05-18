@@ -22,19 +22,19 @@
 
 <p align="center">
   <a href="https://www.facebook.com/phamthanhtung35nb/" target="blank">
-    <img src="https://img.shields.io/badge/-Pham%20Thanh%20Tung-4267b2?logo=facebook&logoColor=white" height="40">
+    <img src="https://img.shields.io/badge/-Pham%20Thanh%20Tung-4267b2?logo=facebook&logoColor=white" height="38">
   </a>
   &nbsp;
   <a href="https://www.linkedin.com/in/phamthanhtung35nb/" target="blank">
-    <img src="https://img.shields.io/badge/-Pham%20Thanh%20Tung-0077B5?logo=linkedin&logoColor=white" height="40">
+    <img src="https://img.shields.io/badge/-Pham%20Thanh%20Tung-0077B5?logo=linkedin&logoColor=white" height="38">
   </a>
   &nbsp;
   <a href="https://discord.com/#7595" target="blank">
-    <img src="https://img.shields.io/badge/-phamthanhtung35nb-436EEE?logo=discord&logoColor=white" height="40">
+    <img src="https://img.shields.io/badge/-phamthanhtung35nb-436EEE?logo=discord&logoColor=white" height="38">
   </a>
   &nbsp;
   <a href="https://www.hackerrank.com/profile/phamthanhtung35n" target="blank">
-    <img src="https://img.shields.io/badge/-Pham%20Thanh%20Tung-006400?logo=hackerrank&logoColor=white" height="40">
+    <img src="https://img.shields.io/badge/-Pham%20Thanh%20Tung-006400?logo=hackerrank&logoColor=white" height="38">
   </a>
 </p>
 
@@ -76,8 +76,11 @@ GitHub Stats -  Top Languages⚡
 🏆 GitHub Trophies
 </h1>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=phamthanhtung35nb&theme=chartreuse-dark&row=1&column=6" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=phamthanhtung35nb&theme=onedark&row=1&column=6" alt="GitHub Trophies" />
+  </a>
 </p>
+
 
 
 <br />
