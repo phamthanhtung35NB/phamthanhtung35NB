@@ -22,19 +22,19 @@
 
 <p align="center">
   <a href="https://www.facebook.com/phamthanhtung35nb/" target="blank">
-    <img src="https://img.shields.io/badge/-Pham%20Thanh%20Tung-4267b2?logo=facebook&logoColor=white" height="30">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height="35">
   </a>
   &nbsp;
   <a href="https://www.linkedin.com/in/phamthanhtung35nb/" target="blank">
-    <img src="https://img.shields.io/badge/-Pham%20Thanh%20Tung-0077B5?logo=linkedin&logoColor=white" height="30">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35">
   </a>
   &nbsp;
   <a href="https://discord.com/#7595" target="blank">
-    <img src="https://img.shields.io/badge/-phamthanhtung35nb-436EEE?logo=discord&logoColor=white" height="30">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" height="35">
   </a>
   &nbsp;
   <a href="https://www.hackerrank.com/profile/phamthanhtung35n" target="blank">
-    <img src="https://img.shields.io/badge/-Pham%20Thanh%20Tung-006400?logo=hackerrank&logoColor=white" height="30">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" height="35">
   </a>
 </p>
 
@@ -81,7 +81,19 @@ GitHub Stats -  Top Languages⚡
   </a>
 </p>
 
+<br/>
+<h1 align="left">
+📈 GitHub Activity Graph
+</h1>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=phamthanhtung35nb&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+</p>
 
 
-<br />
-
+<br/>
+<h1 align="center">
+🐍 Contribution Snake
+</h1>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/phamthanhtung35nb/phamthanhtung35nb/output/snake.svg" alt="Snake animation" />
+</div>
