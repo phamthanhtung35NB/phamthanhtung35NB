@@ -39,9 +39,24 @@
 </p>
 
 
+
+<br/>
+<h1 align="center">
+🐍 Contribution Snake 🐍
+</h1>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/phamthanhtung35nb/phamthanhtung35nb/output/snake-neon.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/phamthanhtung35nb/phamthanhtung35nb/output/snake-light.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/phamthanhtung35nb/phamthanhtung35nb/output/snake.svg">
+  </picture>
+</div>
+
+<div align="center">
+  <sub>🎯 The snake eats my contributions! 🎯</sub>
+</div>
 <br />
-
-
 <h1 align="left">
 GitHub Streak 🔥🔥
 </h1>
@@ -90,10 +105,4 @@ GitHub Stats -  Top Languages⚡
 </p>
 
 
-<br/>
-<h1 align="center">
-🐍 Contribution Snake
-</h1>
-<div align="center">
-  <img src="https://raw.githubusercontent.com/phamthanhtung35nb/phamthanhtung35nb/output/snake.svg" alt="Snake animation" />
-</div>
+
