@@ -41,7 +41,7 @@
 
 
 <br/>
-<h1 align="center">
+<!-- <h1 align="center">
 🐍 Contribution Snake 🐍
 </h1>
 
@@ -52,7 +52,7 @@
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/phamthanhtung35nb/phamthanhtung35nb/output/snake.svg">
   </picture>
   
-</div>
+</div> -->
 
 <div align="center">
   <sub>🎯 The snake eats my contributions! 🎯</sub>
