@@ -54,9 +54,9 @@
   
 </div> -->
 
-<div align="center">
+<!-- <div align="center">
   <sub>🎯 The snake eats my contributions! 🎯</sub>
-</div>
+</div> -->
 <br />
 <h1 align="left">
 GitHub Streak 🔥🔥
