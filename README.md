@@ -57,7 +57,8 @@
 <!-- <div align="center">
   <sub>🎯 The snake eats my contributions! 🎯</sub>
 </div> -->
-<br />
+
+<!-- <br />
 <h1 align="left">
 GitHub Streak 🔥🔥
 </h1>
@@ -67,7 +68,7 @@ GitHub Streak 🔥🔥
   </a>
 </h3>
 
-<br />
+<br /> -->
 
 <h1 align="left">
 GitHub Stats -  Top Languages⚡
