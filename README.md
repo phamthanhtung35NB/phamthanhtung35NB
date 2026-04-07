@@ -70,7 +70,7 @@ GitHub Streak 🔥🔥
 
 <br /> -->
 
-<h1 align="left">
+<!-- <h1 align="left">
 GitHub Stats -  Top Languages⚡
 </h1>
 <table align="center">
@@ -96,7 +96,7 @@ GitHub Stats -  Top Languages⚡
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=phamthanhtung35nb&theme=onedark&row=1&column=6" alt="GitHub Trophies" />
   </a>
-</p>
+</p> -->
 
 <br/>
 <h1 align="left">
